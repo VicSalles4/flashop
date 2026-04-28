@@ -8,7 +8,7 @@ declare global {
   }
 }
 
-const CLARITY_MOCK_KEY = 'flastore_clarity_mock';
+const CLARITY_MOCK_KEY = 'wircqa4ejw';
 
 @Injectable({ providedIn: 'root' })
 export class ClarityService {
